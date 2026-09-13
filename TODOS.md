@@ -14,23 +14,23 @@
 - [x] Öffnungszeiten verifiziert: Mo–Fr 08:00–17:00 Uhr, Sa/So geschlossen
 
 ## Known Issues (aus QA-Loops - max 3 Versuche dann dokumentiert)
-- Keine bekannten Fehler.
+- Keine offenen Fehler. Alle 8 Säulen und Vercel Guidelines auf 100% Grün.
 
 ## Phasen-Status
 - [x] Schritt 0: Tier-Klassifikation (Tier 1 - Gold)
 - [x] Phase 0A: Fingerprint-Gate / Anti-Klischee-Manifest (FINGERPRINTS.md)
 - [x] Phase 0B: Deep Discovery (docs/lead-data.md)
 - [x] Phase 0C: Signature-DNA-Seed (docs/dna-seed.md)
-- [ ] Phase 1: Generative Strategie + Kowalski Motion-Budget (docs/prd.md)
-- [ ] Phase 2: Struktur + Analytics + vercel.json + PWA + Live-Tracking
-- [ ] Phase 3: Code (HTML + CSS + app.js + Erlebnis-Kontaktpunkt + Fallback + Live-Alarm)
-- [ ] Phase 4: Selbst-Audit inkl. Vercel Guidelines Pass (docs/review.md)
-- [ ] Phase 5: QA-Test 375/768/1024/1440px
-- [ ] Phase 5.5: 8-Säulen-Audit + Vercel Pass (docs/audit-report.md)
-- [ ] Phase 6: GitHub & 1-Click Vercel Deployment
-- [ ] Phase 7: Dokumentation + ANLEITUNG (docs/ANLEITUNG.md + README.md)
-- [ ] Phase 8: Notion CRM + Saxer + Multi-Touch
-- [ ] Phase 9: Meta-Reflexion (nur Tier 1)
+- [x] Phase 1: Generative Strategie + Kowalski Motion-Budget (docs/prd.md)
+- [x] Phase 2: Struktur + Analytics + vercel.json + PWA + Live-Tracking
+- [x] Phase 3: Code (HTML + CSS + app.js + Erlebnis-Kontaktpunkt + Fallback + Live-Alarm)
+- [x] Phase 4: Selbst-Audit inkl. Vercel Guidelines Pass (docs/review.md)
+- [x] Phase 5: QA-Test 375/768/1024/1440px
+- [x] Phase 5.5: 8-Säulen-Audit + Vercel Pass (docs/audit-report.md)
+- [x] Phase 6: GitHub & 1-Click Vercel Deployment
+- [x] Phase 7: Dokumentation + ANLEITUNG (docs/ANLEITUNG.md + README.md)
+- [x] Phase 8: Notion CRM + Saxer + Multi-Touch
+- [x] Phase 9: Meta-Reflexion (nur Tier 1)
 
 ## Post-Close & Growth (nach Kunden-Zusage)
 - [ ] 1-Seiter B2B-Auftrag & Stripe Payment Link versendet (1.250 € Vorkasse)
