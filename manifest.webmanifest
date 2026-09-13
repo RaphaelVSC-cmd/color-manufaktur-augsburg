@@ -1,0 +1,16 @@
+{
+  "name": "COLOR MANUFAKTUR GmbH",
+  "short_name": "ColorManufaktur",
+  "description": "Exklusive Malerarbeiten, Stucco Veneziano, Fassadenschutz und Industrieböden in Augsburg und Umgebung. Maler Meisterbetrieb Oleg Rogalski.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf9f6",
+  "theme_color": "#c2593f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

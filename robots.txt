@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://color-manufaktur-augsburg.vercel.app/sitemap.xml

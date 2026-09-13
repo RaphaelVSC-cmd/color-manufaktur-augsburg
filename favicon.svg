@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cmGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c2593f"/>
+      <stop offset="50%" stop-color="#d97757"/>
+      <stop offset="100%" stop-color="#e69c73"/>
+    </linearGradient>
+    <linearGradient id="cmDark" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#181716"/>
+      <stop offset="100%" stop-color="#383430"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#181716" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  
+  <!-- Outer Rounded Shield / Frame -->
+  <rect x="8" y="8" width="104" height="104" rx="28" fill="#fbf9f6" stroke="#e8e2d8" stroke-width="2.5"/>
+  
+  <!-- Architectural Spatula & Dynamic Paint Swash (Geometric Craft Symbol) -->
+  <g filter="url(#shadow)">
+    <!-- Artisan Spatula Blade Angle -->
+    <path d="M 32 78 L 48 34 C 50 28, 56 26, 62 26 L 82 26 C 85 26, 88 28, 88 32 L 88 42 C 88 46, 85 49, 81 50 L 52 58 L 44 82 C 42 86, 36 88, 32 84 Z" fill="url(#cmDark)"/>
+    
+    <!-- Dynamic Color Stroke Arc (Vivid Pigment Arc) -->
+    <path d="M 36 68 C 45 42, 68 36, 88 44 C 94 47, 96 54, 92 60 C 86 70, 74 76, 58 78 C 48 80, 40 76, 36 68 Z" fill="url(#cmGrad)"/>
+    
+    <!-- Fine Precision Core Dot -->
+    <circle cx="76" cy="62" r="5.5" fill="#fbf9f6"/>
+  </g>
+</svg>
