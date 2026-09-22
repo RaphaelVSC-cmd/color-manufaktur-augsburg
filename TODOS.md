@@ -34,7 +34,7 @@
 
 ## Post-Close & Growth (nach Kunden-Zusage)
 - [ ] 1-Seiter B2B-Auftrag & Stripe Payment Link versendet (1.250 € Vorkasse)
-- [ ] SEPA-Lastschriftmandat für 39 € / Monat Retainer eingerichtet
+- [ ] SEPA-Lastschriftmandat für 49 € / Monat Retainer eingerichtet
 - [ ] Revisions-Feedback (max. 1 gebündelte Runde) eingepflegt
 - [ ] Domain CNAME scharfgeschaltet & SSL aktiv (www.colormanufaktur.de)
 - [ ] 3-Minuten Loom-Handover per WhatsApp an Oleg Rogalski gesendet

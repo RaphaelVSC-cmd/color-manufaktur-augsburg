@@ -57,7 +57,7 @@ Alle Texte, Telefonnummern und Öffnungszeiten sind direkt in der Datei `index.h
 ---
 
 ## 4. Rundum-Sorglos-Support
-Möchten Sie Änderungen nicht selbst vornehmen? Senden Sie neue Fotos, Texte oder Wünsche einfach per WhatsApp an Raphael Neumeier. Im Rahmen der monatlichen Website-Wartung (39 €/Monat) werden Anpassungen innerhalb von 24 Stunden zuverlässig für Sie umgesetzt.
+Möchten Sie Änderungen nicht selbst vornehmen? Senden Sie neue Fotos, Texte oder Wünsche einfach per WhatsApp an Raphael Neumeier. Im Rahmen der monatlichen Website-Wartung (49 €/Monat) werden Anpassungen innerhalb von 24 Stunden zuverlässig für Sie umgesetzt.
 
 *Telefon:* 0176 / 47034559  
 *Webdesign & Technik:* Raphael Neumeier (Ingolstadt)
